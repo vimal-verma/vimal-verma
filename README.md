@@ -31,5 +31,5 @@
 [<img src="./img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/vimalverma558/)
 [<img src="./img/icons8-dev.svg" width="30px">](https://dev.to/vimal)
 [<img src="./img/icons8-twitter.svg" width="30px">](https://twitter.com/vimalverma558)
-[<img src="./img/icons8-important-mail.svg" width="30px">](mailto://kumarvimal558@gmail.com)
-[<img src="./img/icons8-website.svg" width="30px">](https://vimal.letskhabarcom)
+[<img src="./img/icons8-important-mail.svg" width="30px">](mailto:kumarvimal558@gmail.com)
+[<img src="./img/icons8-website.svg" width="30px">](https://vimal.letskhabar.com)
