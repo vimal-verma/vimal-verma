@@ -21,18 +21,7 @@
 
  ## :trophy: Languages and Tools: :robot:
 
-<img src="./img/icons8-html-5.svg" width="30px">
-<img src="./img/icons8-css3.svg" width="30px">
-<img src="./img/icons8-bootstrap.svg" width="30px">
-<img src="./img/icons8-javascript-logo.svg" width="30px">
-<img src="./img/icons8-react.svg" width="30px">
-<img src="./img/icons8-nodejs.svg" width="30px">
-<img src="./img/icons8-mongodb.svg" width="30px">
-<img src="./img/icons8-firebase.svg" width="30px">
-<img src="./img/icons8-flutter.svg" width="30px">
-<img src="./img/icons8-git.svg" width="30px">
-<img src="./img/icons8-github.svg" width="30px">
-<img src="./img/icons8-php-logo.svg" width="30px">
+<img src="./img/icons8-html-5.svg" width="50px"> <img src="./img/icons8-css3.svg" width="50px"> <img src="./img/icons8-bootstrap.svg" width="50px"><img src="./img/icons8-javascript-logo.svg" width="50px"><img src="./img/icons8-react.svg" width="50px"><img src="./img/icons8-nodejs.svg" width="50px"><img src="./img/icons8-mongodb.svg" width="50px"><img src="./img/icons8-firebase.svg" width="50px"><img src="./img/icons8-flutter.svg" width="50px"><img src="./img/icons8-git.svg" width="50px"><img src="./img/icons8-github.svg" width="50px"><img src="./img/icons8-php-logo.svg" width="50px">
 
 
 ## :mailbox: Get in touch: 💬
