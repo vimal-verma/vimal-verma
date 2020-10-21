@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> and Open Source Project manager at  <a href="https://github.com/IIITians-Network">@IIITians-Networks :octocat:</a>. Student at IIIT Ranchi :india:
   </samp>
 </p>
 
@@ -11,10 +9,11 @@
 
 
 
-## :pencil2: My Works: :trophy:       
+## :pencil2: My Works: :trophy:  
+- [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)   
 - [Letskhabar](https://letskhabar.com)
 - [Vimal](https://vimal.letskhabar.com)
-- [IIITians-Network Ranchi](https://ranchi.iiitiansnetwork.com/)
+- [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
 - [Covid-19](https://covid-19.letskhabar.com/)
 - [Letskhabar Dev](https://dev.letskhabar.com)
 - [Bob](https://github.com/vimalverma558/Bob)
