@@ -5,6 +5,9 @@
 - 💬 Ask me about JavaScript
 - 🏛️ Student at IIIT Ranchi :india:
 
+
+<img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
 ## :pencil2: My Works: :trophy:  
 - [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)
 - [Letskhabar](https://letskhabar.com)
@@ -19,8 +22,9 @@
 
  ## :trophy: Languages and Tools: :robot:
 
-<img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=react" width="50px"><img src="https://logo.letskhabar.com/img?tool=node" width="50px"><img src="https://logo.letskhabar.com/img?tool=mongodb" width="50px"><img src="https://logo.letskhabar.com/img?tool=firebase" width="50px"><img src="https://logo.letskhabar.com/img?tool=flutter" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=php" width="50px">
+<img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=react" width="50px"><img src="https://logo.letskhabar.com/img?tool=node" width="50px"><img src="https://logo.letskhabar.com/img?tool=mongodb" width="50px"><img src="https://logo.letskhabar.com/img?tool=firebase" width="50px"><img src="https://logo.letskhabar.com/img?tool=flutter" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=php" width="50px"><img src="https://logo.letskhabar.com/img?tool=ubuntu" width="50px">
 
+<img src="https://logo.letskhabar.com/img?tool=figma" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-photoshop" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-premiere-pro" width="50px"><img src="https://logo.letskhabar.com/img?tool=adobe-xd" width="50px">
 
 ## :mailbox: Get in touch: 💬
 [<img src="https://logo.letskhabar.com/img?tool=linkedin" width="30px">](https://www.linkedin.com/in/vimalverma558/)
