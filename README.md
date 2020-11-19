@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vimal kumar
-- 🔭 I’m currently working on @Letskhabar @IIITians-Networks
+- 🔭 I’m currently working on @Letskhabar & @IIITians-Networks
 - 🌱 I’m currently learning JavaScript and TypeScript
 - 👯 I’m looking to collaborate on [Master-Portfolio](https://github.com/vimalverma558/master-portfolio) :octocat:
 - 💬 Ask me about JavaScript
@@ -36,7 +36,6 @@
 [<img src="https://logo.letskhabar.com/img?tool=play-button" width="30px">](https://www.youtube.com/websensevk)
 <br>
 <br>
-<img align="right" src="https://lh3.googleusercontent.com/proxy/_PIa65x7A0bancMW8fkduxxPi5z6brBsZxHbMyx7U8I2xl8PbQZKzUUwk4kd-Cv1wGq22ky22OQASJaWzLWACJIR8QRZ6pt-t-5fb71hivQ" height="100" title="octocat" />
-<br>
+<img align="right" width="80" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
 <br>
 #### Check my Repository 👇
