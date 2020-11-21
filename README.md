@@ -18,6 +18,7 @@
 - [Letskhabar Dev](https://dev.letskhabar.com)
 - [Bob](https://github.com/vimalverma558/Bob)
 - ### :robot: Open Source Packages :octocat:
+  - svghero is javascript packages for Hero effect in svg [svghero](https://github.com/vimalverma558/svghero)
   - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
   - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
 
@@ -36,6 +37,6 @@
 [<img src="https://logo.letskhabar.com/img?tool=play-button" width="30px">](https://www.youtube.com/websensevk)
 <br>
 <br>
-<img align="right" width="80" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
+<img align="right" width="160" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
 <br>
 #### Check my Repository 👇
