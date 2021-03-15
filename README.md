@@ -11,32 +11,32 @@
 
 ## :pencil2: My Works: :trophy:  
 - [Master-Portfolio](https://github.com/vimalverma558/master-portfolio)
+- [icon](https://logo.letskhabar.com/)
+- [DevTo](https://devto.letskhabar.com/)
+- [climate](https://github.com/vimalverma558/climate)
 - [Letskhabar](https://letskhabar.com)
 - [Vimal](https://vimal.letskhabar.com)
 - [IIITians-Network Open Source](https://github.com/IIITians-Network/Open-Source)
 - [Covid-19](https://covid-19.letskhabar.com/)
-- [Letskhabar Dev](https://dev.letskhabar.com)
 - [Bob](https://github.com/vimalverma558/Bob)
 - ### :robot: Open Source Packages :octocat:
   - svghero is javascript packages for Hero effect in svg [svghero](https://github.com/vimalverma558/svghero)
   - prime-num is javascript packages for find primes number [Prime-num](https://www.npmjs.com/package/prime-num)
-  - Rive_design is Flutter Packages for Rive(Flare) [Rive_design](https://pub.dev/packages/rive_design)
 
  ## :trophy: Languages and Tools: :robot:
 
-<img src="https://logo.letskhabar.com/img?tool=html" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap" width="50px"><img src="https://logo.letskhabar.com/img?tool=js" width="50px"><img src="https://logo.letskhabar.com/img?tool=react" width="50px"><img src="https://logo.letskhabar.com/img?tool=node" width="50px"><img src="https://logo.letskhabar.com/img?tool=mongodb" width="50px"><img src="https://logo.letskhabar.com/img?tool=firebase" width="50px"><img src="https://logo.letskhabar.com/img?tool=flutter" width="50px"><img src="https://logo.letskhabar.com/img?tool=git" width="50px"><img src="https://logo.letskhabar.com/img?tool=github" width="50px"><img src="https://logo.letskhabar.com/img?tool=php" width="50px"><img src="https://logo.letskhabar.com/img?tool=ubuntu" width="50px">
+<img src="https://logo.letskhabar.com/img?tool=html&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=css&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=bootstrap&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=js&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=react&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=node&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=mongodb&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=firebase&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=flutter&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=git&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=github&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=php&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=ubuntu&acol=gold" width="50px">
 
-<img src="https://logo.letskhabar.com/img?tool=figma" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-photoshop" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-premiere-pro" width="50px"><img src="https://logo.letskhabar.com/img?tool=adobe-xd" width="50px">
+<img src="https://logo.letskhabar.com/img?tool=figma&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-photoshop&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-premiere-pro&acol=gold" width="50px"><img src="https://logo.letskhabar.com/img?tool=adobe-xd&acol=gold" width="50px">
 
 ## :mailbox: Get in touch: 💬
-[<img src="https://logo.letskhabar.com/img?tool=linkedin" width="30px">](https://www.linkedin.com/in/vimalverma558/)
-[<img src="https://logo.letskhabar.com/img?tool=dev" width="30px">](https://dev.to/vimal)
-[<img src="https://logo.letskhabar.com/img?tool=twitter" width="30px">](https://twitter.com/vimalverma558)
-[<img src="https://logo.letskhabar.com/img?tool=mail" width="30px">](mailto:kumarvimal558@gmail.com)
-[<img src="https://logo.letskhabar.com/img?tool=globe" width="30px">](https://vimal.letskhabar.com)
-[<img src="https://logo.letskhabar.com/img?tool=play-button" width="30px">](https://www.youtube.com/websensevk)
+[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/vimalverma558/)
+[<img src="https://logo.letskhabar.com/img?tool=dev&acol=gold" width="30px">](https://dev.to/vimal)
+[<img src="https://logo.letskhabar.com/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/vimalverma558)
+[<img src="https://logo.letskhabar.com/img?tool=mail&acol=gold" width="30px">](mailto:kumarvimal558@gmail.com)
+[<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="30px">](https://vimal.letskhabar.com)
+[<img src="https://logo.letskhabar.com/img?tool=play-button&acol=gold" width="30px">](https://www.youtube.com/websensevk)
 <br>
 <br>
-<img align="right" width="160" alt="GIF" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" />
 <br>
 #### Check my Repository 👇
