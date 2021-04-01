@@ -10,7 +10,7 @@
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ## :pencil2: My Works: :trophy:  
-- [Vdev 💻](https:vdev.in)
+- [Vdev 💻](https://vdev.in)
 - [Master-Portfolio 💻](https://github.com/vimalverma558/master-portfolio)
 - [icon ❄️](https://logo.letskhabar.com/)
 - [DevTo 🧑‍💻](https://devto.letskhabar.com/)
@@ -40,7 +40,13 @@
 [<img src="https://logo.letskhabar.com/img?tool=play-button&acol=gold" width="30px">](https://www.youtube.com/websensevk)
 <br>
 <br>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalverma558&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalverma558&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+</details>
 
 <br>
 <br>
+
 #### Check my Repository 👇
