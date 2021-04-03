@@ -13,7 +13,7 @@
 - [Vdev 💻](https://vdev.in)
 - [Master-Portfolio 💻](https://github.com/vimalverma558/master-portfolio)
 - [icon ❄️](https://logo.letskhabar.com/)
-- [DevTo 🧑‍💻](https://devto.letskhabar.com/)
+- [DevTo 🧑‍💻](https://devto.vimalverma.in/)
 - [climate 🌏](https://github.com/vimalverma558/climate)
 - [Story-book 📚](https://story-bok.herokuapp.com/)
 - [Letskhabar](https://letskhabar.com)
@@ -32,18 +32,18 @@
 <img src="https://logo.letskhabar.com/img?tool=figma&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-photoshop&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-premiere-pro&acol=gold" width="50px"> <img src="https://logo.letskhabar.com/img?tool=adobe-xd&acol=gold" width="50px">
 
 ## :mailbox: Get in touch: 💬
-[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/vimalverma558/)
+[<img src="https://logo.letskhabar.com/img?tool=linkedin&acol=gold" width="30px">](https://www.linkedin.com/in/vimal-verma/)
 [<img src="https://logo.letskhabar.com/img?tool=dev&acol=gold" width="30px">](https://dev.to/vimal)
-[<img src="https://logo.letskhabar.com/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/vimalverma558)
-[<img src="https://logo.letskhabar.com/img?tool=mail&acol=gold" width="30px">](mailto:vimal@letskhabar.com)
-[<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="30px">](https://vimal.letskhabar.com)
+[<img src="https://logo.letskhabar.com/img?tool=twitter&acol=gold" width="30px">](https://twitter.com/vimalverma_in)
+[<img src="https://logo.letskhabar.com/img?tool=mail&acol=gold" width="30px">](mailto:me@vimalverma.in)
+[<img src="https://logo.letskhabar.com/img?tool=globe&acol=gold" width="30px">](https://vimalverma.in)
 [<img src="https://logo.letskhabar.com/img?tool=play-button&acol=gold" width="30px">](https://www.youtube.com/websensevk)
 <br>
 <br>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimalverma558&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalverma558&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimal-verma&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal-verma&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 </details>
 
 <br>
