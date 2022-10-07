@@ -17,7 +17,7 @@
 - [DevTo 🧑‍💻](https://devto.vimalverma.in/)
 - [climate 🌏](https://github.com/vimal-verma/climate)
 - [Story-book 📚](https://story-bok.herokuapp.com/)
-- [Letskhabar](https://letskhabar.com)
+- [Jharkhand Tribal Products 📚](https://github.com/vimal-verma/Jharkhand-Tribal-Products-frontend/)
 - [Covid-19 😷](https://covid-19.letskhabar.com/)
 - [Bob 🃏](https://github.com/vimal-verma/Bob)
 - ### :robot: Open Source Packages :octocat:
