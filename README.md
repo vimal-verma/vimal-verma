@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Vimal kumar
 
-- 🔭 I’m currently working on @Letskhabar & @IIITians-Networks
+- 🔭 I’m currently working as Associate at Cognizant
 - 🌱 I’m currently learning JavaScript and TypeScript
 - 👯 I’m looking to collaborate on [Vdev](https://github.com/vdev-in) :octocat:
 - 💬 Ask me about JavaScript
-- 🏛️ Student at IIIT Ranchi :india:
+- 🏛️ studied at IIIT Ranchi :india:
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
