@@ -2,15 +2,17 @@
 
 - 🔭 I’m currently working as Associate at Cognizant
 - 🌱 I’m currently learning JavaScript and TypeScript
-- 👯 I’m looking to collaborate on [Vdev](https://github.com/vdev-in) :octocat:
+- 👯 I’m looking to collaborate on [webnfc](https://webnfc.org/) :octocat:
 - 💬 Ask me about JavaScript
 - 🏛️ studied at IIIT Ranchi :india:
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Contribute more to Open Source projects.
 
 <img align="right" width="375" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ## :pencil2: My Works: :trophy:
-
+- [WebNFC 💻](https://webnfc.org)
+- [NfcBuzz 💻](https://NfcBuzz.com)
+- [KnowBihar 💻](https://KnowBihar.in)
 - [Vdev 💻](https://vdev.in)
 - [Master-Portfolio 💻](https://github.com/vimal-verma/Master-Portfolio)
 - [icon ❄️](https://logo.vdev.in/)
