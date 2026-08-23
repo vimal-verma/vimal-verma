@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Associate at Cognizant
 - 🌱 I’m currently learning JavaScript and TypeScript
-- 👯 I’m looking to collaborate on [webnfc](https://webnfc.org/) :octocat:
+- 👯 I’m looking to collaborate on [NfcTool](https://NfcTool.org/) :octocat:
 - 💬 Ask me about JavaScript
 - 🏛️ studied at IIIT Ranchi :india:
 - 🥅 2026 Goals: Contribute more to Open Source projects.
@@ -18,9 +18,7 @@
 - [icon ❄️](https://logo.vdev.in/)
 - [DevTo 🧑‍💻](https://devto.vimalverma.in/)
 - [climate 🌏](https://github.com/vimal-verma/climate)
-- [Story-book 📚](https://story-bok.herokuapp.com/)
 - [Jharkhand Tribal Products 📚](https://github.com/vimal-verma/Jharkhand-Tribal-Products-frontend/)
-- [Covid-19 😷](https://covid-19.letskhabar.com/)
 - [Bob 🃏](https://github.com/vimal-verma/Bob)
 - ### :robot: Open Source Packages :octocat:
   - svghero is javascript packages for Hero effect in svg [svghero](https://github.com/vimal-verma/svghero)
